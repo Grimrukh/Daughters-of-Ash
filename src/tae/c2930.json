@@ -1,0 +1,6820 @@
+{
+  "animData" : [{
+      "animFile" : {
+        "name" : "a00_0000.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.5000000000,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15605476 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4155264 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+    "animFile" : {
+        "name" : "a00_0006.hkxwin",
+        "type" : 0,
+        "unk1" : 256,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.5000000000,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15605476 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4155264 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.0,
+          "type" : 193,
+          "typeName" : "FadeOpacity",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.0,
+          "endTime" : 2.5,
+          "type" : 193,
+          "typeName" : "FadeOpacity",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "1065353216 or 1.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0200.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15605624 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4155184 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.3666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 1.0666667223,
+          "endTime" : 1.1000000238,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0201.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15605824 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4155408 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.6999999881,
+          "endTime" : 0.7333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 1.3666666746,
+          "endTime" : 1.3999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0202.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.0333333351,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15606044 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4155680 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.7333333492,
+          "endTime" : 0.7666666508,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0203.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15606220 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4157112 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.5333333611,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 1.2333333492,
+          "endTime" : 1.2666666508,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0500.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15606420 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4157336 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.0666666701,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293002001
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.4333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293002001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0501.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.0333333351,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293002001
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15606640 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15636888 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293002001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0602.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15606860 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15637032 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.3666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.6000000238,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.6666666865,
+          "endTime" : 0.6999999881,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 1.2333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0603.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15607156 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15637384 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.2333333343,
+          "endTime" : 0.2666666806,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.6000000238,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.7333333492,
+          "endTime" : 0.7666666508,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 1.0666667223,
+          "endTime" : 1.1000000238,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0604.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15607452 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15637736 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.4333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.6000000238,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.7333333492,
+          "endTime" : 0.7666666508,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.3333333731,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0605.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15607768 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4155840 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.3666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.6000000238,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.6666666865,
+          "endTime" : 0.6999999881,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 1.2333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 1.4666666985,
+          "endTime" : 1.5000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0701.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.6333333254,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.5333333015,
+          "endTime" : 1.8666666746,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.5333333015,
+          "endTime" : 1.8666666746,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 1.8666666746,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.6666666865,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15608360 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4156528 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.2000000030,
+          "endTime" : 0.3000000119,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.2666666806,
+          "endTime" : 0.7333333492,
+          "type" : 5,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "20214 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.6333333254,
+          "endTime" : 0.6666666865,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293002001
+          }
+        }, {
+          "beginTime" : 0.6999999881,
+          "endTime" : 0.7333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_1500.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.6666666269,
+          "type" : 5,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "20100 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "15608604 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4156944 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 1500,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "15608680 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15639912 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 1500,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "15608756 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15639928 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2200,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "15608904 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15640168 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2200,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15608980 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15640392 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_1750.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.6666666865,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "5 or 0.000",
+            "var1" : "15609196 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15640376 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.0666666701,
+          "type" : 5,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "20103 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 1750,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "15609296 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15640600 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 1750,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "15609372 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15640696 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 1750,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15609448 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15640968 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2000.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.8333333135,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.8333333135,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.8333333135,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1666666716,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15609736 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4168624 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2001.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.8333333135,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.8333333135,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.8333333135,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1666666716,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15610024 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4168896 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2002.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.8333333135,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.8333333135,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.8333333135,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1666666716,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15610312 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4169504 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2004.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.5000000000,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 3.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 3.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.8666666746,
+          "endTime" : 3.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15610764 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4169248 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.1000000015,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.3333333433,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004001
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.3666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.8000000119,
+          "endTime" : 0.8333333135,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 1.0666667223,
+          "endTime" : 1.1666666269,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004002
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2005.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.5000000000,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 3.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 3.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.8666666746,
+          "endTime" : 3.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15611360 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15641256 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.1000000015,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.2000000030,
+          "endTime" : 0.2333333343,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004001
+          }
+        }, {
+          "beginTime" : 0.2666666806,
+          "endTime" : 0.3000000119,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.6666666865,
+          "endTime" : 0.6999999881,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.8999999762,
+          "endTime" : 1.0000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004002
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.3666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2006.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.5000000000,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 3.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 3.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.8666666746,
+          "endTime" : 3.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15611960 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15641960 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.2666666806,
+          "endTime" : 0.3000000119,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004001
+          }
+        }, {
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.3333333433,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.6000000238,
+          "endTime" : 0.6333333254,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.8999999762,
+          "endTime" : 1.0000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004002
+          }
+        }, {
+          "beginTime" : 1.7000000477,
+          "endTime" : 1.7333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004003
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2007.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.5000000000,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 3.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 3.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.8666666746,
+          "endTime" : 3.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15612556 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15642584 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.1000000015,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.2000000030,
+          "endTime" : 0.2333333343,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004001
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.3666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.6999999881,
+          "endTime" : 0.7333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.9666666389,
+          "endTime" : 1.0666667223,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004002
+          }
+        }, {
+          "beginTime" : 1.7333333492,
+          "endTime" : 1.7666666508,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004003
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2010.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 4.1666665077,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.6666665077,
+          "endTime" : 7.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.6666665077,
+          "endTime" : 7.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.5000000000,
+          "endTime" : 7.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15613232 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15638600 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.3666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 0.4333333373,
+          "endTime" : 0.4666666687,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004001
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.5333333611,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 0.8000000119,
+          "endTime" : 0.8333333135,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 1.4666666985,
+          "endTime" : 1.5000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 2.0999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004002
+          }
+        }, {
+          "beginTime" : 3.7000000477,
+          "endTime" : 3.7999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 4.8333334923,
+          "endTime" : 4.8666667938,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004003
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2011.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 4.1666665077,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.6666665077,
+          "endTime" : 7.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.6666665077,
+          "endTime" : 7.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.5000000000,
+          "endTime" : 7.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15613928 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15639448 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.4333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004001
+          }
+        }, {
+          "beginTime" : 0.4333333373,
+          "endTime" : 0.4666666687,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.5333333611,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 0.9333333373,
+          "endTime" : 0.9666666389,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.9333332777,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004002
+          }
+        }, {
+          "beginTime" : 3.7666666508,
+          "endTime" : 3.8666665554,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 5.0000000000,
+          "endTime" : 5.0333333015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004003
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2012.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 4.5000000000,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.8333334923,
+          "endTime" : 7.1999998093,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.8333334923,
+          "endTime" : 7.1999998093,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.6666665077,
+          "endTime" : 7.1999998093,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15614716 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4166008 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.4333333373,
+          "endTime" : 0.4666666687,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004001
+          }
+        }, {
+          "beginTime" : 0.4666666687,
+          "endTime" : 0.5000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.5333333611,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 0.6999999881,
+          "endTime" : 0.7333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 1.0000000000,
+          "endTime" : 1.0333333015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.3666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 1.5000000000,
+          "endTime" : 1.5333333015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }, {
+          "beginTime" : 1.7666666508,
+          "endTime" : 1.7999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.9333332777,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004002
+          }
+        }, {
+          "beginTime" : 3.4333333969,
+          "endTime" : 3.5333333015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 4.5666666031,
+          "endTime" : 4.5999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 4.8333334923,
+          "endTime" : 4.8666667938,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004003
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2013.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 4.3333334923,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 6.1666665077,
+          "endTime" : 7.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 6.1666665077,
+          "endTime" : 7.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 6.0000000000,
+          "endTime" : 7.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15615632 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4167080 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.3333333433,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 0.4333333373,
+          "endTime" : 0.4666666687,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004001
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.5333333611,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 0.7333333492,
+          "endTime" : 0.7666666508,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 1.0000000000,
+          "endTime" : 1.0333333015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.3333333731,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }, {
+          "beginTime" : 1.6666666269,
+          "endTime" : 1.7000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 1.8666666746,
+          "endTime" : 1.8999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 1.9333332777,
+          "endTime" : 2.0333333015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004002
+          }
+        }, {
+          "beginTime" : 3.5999999046,
+          "endTime" : 3.7000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 4.8000001907,
+          "endTime" : 4.8333334923,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 5.0333333015,
+          "endTime" : 5.0666666031,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004003
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2014.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 4.8333334923,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.7333331108,
+          "endTime" : 6.2333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.7333331108,
+          "endTime" : 6.2333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.5666666031,
+          "endTime" : 6.2333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.4333333373,
+          "type" : 5,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "20215 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15616588 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4168232 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.3666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.4333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004001
+          }
+        }, {
+          "beginTime" : 0.4666666687,
+          "endTime" : 0.5000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 0.6000000238,
+          "endTime" : 0.6333333254,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006000
+          }
+        }, {
+          "beginTime" : 0.6999999881,
+          "endTime" : 0.7333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 1.0333333015,
+          "endTime" : 1.0666667223,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 1.4666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.8666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 2.0999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004002
+          }
+        }, {
+          "beginTime" : 3.9000000954,
+          "endTime" : 4.0000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 4.5000000000,
+          "endTime" : 4.5333333015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 5.2333331108,
+          "endTime" : 5.2666668892,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004003
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2020.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 4.6666665077,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.7333331108,
+          "endTime" : 6.2333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.7333331108,
+          "endTime" : 6.2333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.5666666031,
+          "endTime" : 6.2333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.1000000015,
+          "endTime" : 0.4666666687,
+          "type" : 5,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "20215 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15617544 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4174888 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.3666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.4333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004001
+          }
+        }, {
+          "beginTime" : 0.4666666687,
+          "endTime" : 0.5000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 0.6000000238,
+          "endTime" : 0.6333333254,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006000
+          }
+        }, {
+          "beginTime" : 0.6999999881,
+          "endTime" : 0.7333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 1.0333333015,
+          "endTime" : 1.0666667223,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 1.4666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.8666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 2.0999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004002
+          }
+        }, {
+          "beginTime" : 3.9000000954,
+          "endTime" : 4.0000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 4.5000000000,
+          "endTime" : 4.5333333015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 5.2333331108,
+          "endTime" : 5.2666668892,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004003
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2030.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.8000000119,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.8000000119,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.8000000119,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1666666716,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15618120 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4182560 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2031.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.8000000119,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.8000000119,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.8000000119,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1666666716,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15618408 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4182832 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2032.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.8000000119,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.8000000119,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.8000000119,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1666666716,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15618696 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4183408 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2040.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 2.5000000000,
+          "endTime" : 3.4666666985,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.5000000000,
+          "endTime" : 3.4666666985,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.3333332539,
+          "endTime" : 3.4666666985,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 2.0000000000,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 2.0000000000,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 35
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15619160 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4183232 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.4333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 1.3999999762,
+          "endTime" : 1.5000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 1.5000000000,
+          "endTime" : 1.6000000238,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 2.5000000000,
+          "endTime" : 2.5999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2050.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 1.5666667223,
+          "endTime" : 2.2333333492,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.5666667223,
+          "endTime" : 2.2333333492,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 2.2333333492,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.3333333731,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15619668 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4183728 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0666666701,
+          "endTime" : 0.1666666716,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.3333333433,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.4333333373,
+          "endTime" : 0.4666666687,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.7333333492,
+          "endTime" : 0.7666666508,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.1666666269,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2051.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 1.6000000238,
+          "endTime" : 2.2666666508,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.6000000238,
+          "endTime" : 2.2666666508,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 2.2333333492,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.3333333731,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15620200 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4184336 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0666666701,
+          "endTime" : 0.1666666716,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.2333333343,
+          "endTime" : 0.2666666806,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.6333333254,
+          "endTime" : 0.6666666865,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.9666666389,
+          "endTime" : 1.0000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2052.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 1.6000000238,
+          "endTime" : 2.2666666508,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.6000000238,
+          "endTime" : 2.2666666508,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 2.2333333492,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.3333333731,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15620732 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4184928 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0666666701,
+          "endTime" : 0.1666666716,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.2000000030,
+          "endTime" : 0.2333333343,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.3666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.5333333611,
+          "endTime" : 0.5666666627,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.8666666746,
+          "endTime" : 0.8999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2053.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 1.6000000238,
+          "endTime" : 2.2666666508,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.6000000238,
+          "endTime" : 2.2666666508,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 2.2333333492,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.3333333731,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15621244 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4185520 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0666666701,
+          "endTime" : 0.1666666716,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.6333333254,
+          "endTime" : 0.6666666865,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.6999999881,
+          "endTime" : 0.7333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2200.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.0333333351,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 999999997
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15621676 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4185904 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.3666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 0.6000000238,
+          "endTime" : 0.6333333254,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 2.3333332539,
+          "endTime" : 2.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "12 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.6333334446,
+          "endTime" : 2.6666667461,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 3.8333332539,
+          "endTime" : 3.9333333969,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 4.3000001907,
+          "endTime" : 4.3333334923,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 4.3666667938,
+          "endTime" : 4.4000000954,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 4.6999998093,
+          "endTime" : 6.5000000000,
+          "type" : 228,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "0 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2202.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15622068 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4170136 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.2000000477,
+          "endTime" : 2.2666666508,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "12 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.2000000477,
+          "endTime" : 2.2999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 2.3333332539,
+          "endTime" : 2.3666665554,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 2.3666665554,
+          "endTime" : 4.1999998093,
+          "type" : 228,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "0 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2203.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15622396 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4170456 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.8999999762,
+          "endTime" : 1.9666666985,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "12 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 2.0333333015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293002001
+          }
+        }, {
+          "beginTime" : 3.2333333492,
+          "endTime" : 3.3333332539,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 3.5000000000,
+          "endTime" : 3.5333333015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 3.2999999523,
+          "endTime" : 4.6666665077,
+          "type" : 228,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "0 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2205.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.0333333351,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 999999997
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15622764 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4170920 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.0999999046,
+          "endTime" : 2.2000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 2.2000000477,
+          "endTime" : 2.2999999523,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "12 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.4333333969,
+          "endTime" : 2.4666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 2.6333334446,
+          "endTime" : 4.1999998093,
+          "type" : 228,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "0 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2207.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.0333333351,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 999999997
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15623128 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4171288 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.2333333343,
+          "endTime" : 0.3333333433,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.5333333611,
+          "endTime" : 0.5666666627,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 1.2333333492,
+          "endTime" : 1.3333333731,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "12 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2333333492,
+          "endTime" : 2.8333332539,
+          "type" : 228,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.1000000015,
+          "endTime" : 0.4666666687,
+          "type" : 5,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "20215 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2209.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 999999997
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15623472 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4171736 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.4333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 0.5333333611,
+          "endTime" : 0.6333333254,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "12 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.5333333611,
+          "endTime" : 1.0000000000,
+          "type" : 228,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "0 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2250.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1666666716,
+          "type" : 228,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "0 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2300.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1666666716,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15623952 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4172344 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2301.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1666666716,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15624056 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4172440 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2302.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1666666716,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15624160 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4172536 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2330.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15624264 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4172632 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2331.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15624368 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4172728 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2332.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15624472 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4172824 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2333.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15624576 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4172920 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2360.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15624680 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4173016 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2361.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15624784 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4173112 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2362.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15624888 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4173208 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2363.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15624992 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4173304 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2400.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1666666716,
+          "type" : 16,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "15625096 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4173400 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2400,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1666666716,
+          "type" : 16,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "15625172 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4173496 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2400,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1666666716,
+          "type" : 16,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "15625248 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4173592 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2330,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "15625324 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4173688 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2331,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "15625400 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4173784 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2332,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "15625476 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4173880 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2333,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "15625552 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15652232 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_3000.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15625880 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4186120 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.1000000015,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.4666666687,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 5300
+          }
+        }, {
+          "beginTime" : 0.4333333373,
+          "endTime" : 0.6000000238,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 100
+          }
+        }, {
+          "beginTime" : 0.8333333135,
+          "endTime" : 0.8999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 5300
+          }
+        }, {
+          "beginTime" : 0.8666666746,
+          "endTime" : 1.0333333015,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 101
+          }
+        }, {
+          "beginTime" : 0.9666666389,
+          "endTime" : 1.2999999523,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 31
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.8333333731,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.5000000000,
+          "endTime" : 2.2333333492,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "86 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.5000000000,
+          "endTime" : 2.2333333492,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 2.2333333492,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_3001.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 1.1666666269,
+          "endTime" : 2.0000000000,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 5401
+          }
+        }, {
+          "beginTime" : 0.8333333135,
+          "endTime" : 1.0000000000,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 200
+          }
+        }, {
+          "beginTime" : 1.0000000000,
+          "endTime" : 1.1666666269,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "1 or 0.000",
+            "var2_behaviorId" : 200
+          }
+        }, {
+          "beginTime" : 1.1666666269,
+          "endTime" : 1.3333333731,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 200
+          }
+        }, {
+          "beginTime" : 0.6666666865,
+          "endTime" : 1.5000000000,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2666666508,
+          "endTime" : 2.0000000000,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "86 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2666666508,
+          "endTime" : 2.0000000000,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2666666508,
+          "endTime" : 2.0000000000,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2666666508,
+          "endTime" : 2.0000000000,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 2.0000000000,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15626804 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15652824 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.0666666701,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293002001
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.4333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293002001
+          }
+        }, {
+          "beginTime" : 0.6333333254,
+          "endTime" : 0.7333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004005
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 1.2000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006000
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_3500.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.1666666269,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 2.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 2.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 2.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.4333333373,
+          "endTime" : 2.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1333333403,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15627288 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15653400 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.2000000030,
+          "endTime" : 0.2333333343,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.6000000238,
+          "endTime" : 0.6333333254,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a01_0000.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 2.4333333969,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 5142
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.5000000000,
+          "type" : 16,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "15627480 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15653656 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 13000,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 13000,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 13000,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 13000,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a01_0700.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1666666716,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 200
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.3333333433,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "1 or 0.000",
+            "var2_behaviorId" : 200
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.5000000000,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 200
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.6666666865,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "1 or 0.000",
+            "var2_behaviorId" : 200
+          }
+        }, {
+          "beginTime" : 0.6666666865,
+          "endTime" : 0.8333333135,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 200
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.8333333135,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 5142
+          }
+        }, {
+          "beginTime" : 0.6666666865,
+          "endTime" : 1.3666666746,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.6666666865,
+          "endTime" : 1.3666666746,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.6666666865,
+          "endTime" : 1.3666666746,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.0333333351,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a01_2010.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.6666666269,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 3.1666667461,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 5142
+          }
+        }, {
+          "beginTime" : 2.6666667461,
+          "endTime" : 3.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.6666667461,
+          "endTime" : 3.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.3333332539,
+          "endTime" : 3.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 5400
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15628728 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15654776 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.4333333373,
+          "endTime" : 0.4666666687,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.5333333611,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.2333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 1.4666666985,
+          "endTime" : 1.5000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 2.2333333492,
+          "endTime" : 2.3333332539,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a01_2011.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 2.1666667461,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 3.6666667461,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 5142
+          }
+        }, {
+          "beginTime" : 3.0000000000,
+          "endTime" : 3.7333333492,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.0000000000,
+          "endTime" : 3.7333333492,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.6666667461,
+          "endTime" : 3.7333333492,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 5400
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15629384 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4176552 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.4333333373,
+          "endTime" : 0.4666666687,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.5333333611,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.2333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 1.4666666985,
+          "endTime" : 1.5000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293001001
+          }
+        }, {
+          "beginTime" : 2.2333333492,
+          "endTime" : 2.3333332539,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a01_2012.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.6666666269,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 3.4000000954,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 5142
+          }
+        }, {
+          "beginTime" : 2.6666667461,
+          "endTime" : 3.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.6666667461,
+          "endTime" : 3.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.3333332539,
+          "endTime" : 3.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15630000 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4177240 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.5333333611,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 0.6666666865,
+          "endTime" : 0.6999999881,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 1.8666666746,
+          "endTime" : 1.9666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2000000030,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a01_2013.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.6666666269,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 3.4000000954,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 5142
+          }
+        }, {
+          "beginTime" : 2.6666667461,
+          "endTime" : 3.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.6666667461,
+          "endTime" : 3.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.3333332539,
+          "endTime" : 3.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15630616 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4177928 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.5333333611,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 0.6666666865,
+          "endTime" : 0.6999999881,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 1.8666666746,
+          "endTime" : 1.9666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2000000030,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a01_2014.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 3.1666667461,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.6666666865,
+          "type" : 5,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "20216 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 5400
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15631224 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4178504 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.6666666865,
+          "endTime" : 0.6999999881,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 1.7666666508,
+          "endTime" : 1.7999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 1.8666666746,
+          "endTime" : 1.8999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 2.0999999046,
+          "endTime" : 2.1333334446,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 3.0333333015,
+          "endTime" : 3.1333334446,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 3.8333332539,
+          "endTime" : 3.9333333969,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2000000030,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }, {
+          "beginTime" : 0.8999999762,
+          "endTime" : 0.9333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 12014,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15631776 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4179224 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.6666666865,
+          "endTime" : 0.6999999881,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 1.7666666508,
+          "endTime" : 1.7999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 1.8666666746,
+          "endTime" : 1.8999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 2.0999999046,
+          "endTime" : 2.1333334446,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 3.0333333015,
+          "endTime" : 3.1333334446,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 3.8333332539,
+          "endTime" : 3.9333333969,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2000000030,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }, {
+          "beginTime" : 0.8999999762,
+          "endTime" : 0.9333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 12014,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293099999
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15632328 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4179944 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.6666666865,
+          "endTime" : 0.6999999881,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 1.8666666746,
+          "endTime" : 1.9666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 2.0666666031,
+          "endTime" : 2.0999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 2.1666667461,
+          "endTime" : 2.2000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 3.0333333015,
+          "endTime" : 3.1333334446,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 3.8333332539,
+          "endTime" : 3.9333333969,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2000000030,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }, {
+          "beginTime" : 0.8999999762,
+          "endTime" : 0.9333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a01_2200.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.8999999762,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "12 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.5333333015,
+          "endTime" : 3.9333333969,
+          "type" : 228,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 999999997
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15632956 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4180792 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.2666666508,
+          "endTime" : 2.2999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 2.3333332539,
+          "endTime" : 2.3666665554,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 2.3666665554,
+          "endTime" : 2.4000000954,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 3.8333332539,
+          "endTime" : 3.9333333969,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2000000030,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }, {
+          "beginTime" : 0.5333333611,
+          "endTime" : 0.5666666627,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 12200,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15633364 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4181304 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.9333332777,
+          "endTime" : 1.9666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 2.0333333015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 2.0333333015,
+          "endTime" : 2.0666666031,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 3.8333332539,
+          "endTime" : 3.9333333969,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2000000030,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }, {
+          "beginTime" : 0.5333333611,
+          "endTime" : 0.5666666627,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 12205,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15633776 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4181832 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.3333332539,
+          "endTime" : 2.3666665554,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 2.5333333015,
+          "endTime" : 2.5666666031,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 2.6333334446,
+          "endTime" : 2.6666667461,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 3.8333332539,
+          "endTime" : 3.9333333969,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2000000030,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }, {
+          "beginTime" : 0.5333333611,
+          "endTime" : 0.5666666627,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a01_2205.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.8999999762,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "12 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.5333333015,
+          "endTime" : 3.9666666985,
+          "type" : 228,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 999999997
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15634356 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4186808 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.8999999762,
+          "endTime" : 1.9333332777,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 1.9666666985,
+          "endTime" : 2.0000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 2.0333333015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 3.8333332539,
+          "endTime" : 3.9333333969,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2000000030,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }, {
+          "beginTime" : 0.5333333611,
+          "endTime" : 0.5666666627,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a01_2207.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.8999999762,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "12 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.5333333015,
+          "endTime" : 3.5000000000,
+          "type" : 228,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.6666666865,
+          "type" : 5,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "20107 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 999999997
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15635000 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4187544 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.6666666865,
+          "endTime" : 0.6999999881,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 1.6333333254,
+          "endTime" : 1.7333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.8666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 1.8999999762,
+          "endTime" : 1.9333332777,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 3.8333332539,
+          "endTime" : 3.9333333969,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2000000030,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }, {
+          "beginTime" : 0.7666666508,
+          "endTime" : 0.8000000119,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 12207,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 999999997
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15635504 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4188168 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.6666666865,
+          "endTime" : 0.6999999881,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 1.6333333254,
+          "endTime" : 1.7333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.8666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006009
+          }
+        }, {
+          "beginTime" : 1.8999999762,
+          "endTime" : 1.9333332777,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 293003001
+          }
+        }, {
+          "beginTime" : 3.8333332539,
+          "endTime" : 3.9333333969,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2000000030,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }, {
+          "beginTime" : 0.7666666508,
+          "endTime" : 0.8000000119,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a01_2210.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1666666716,
+          "type" : 228,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "0 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a01_3000.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 5400
+          }
+        }, {
+          "beginTime" : 1.7333333492,
+          "endTime" : 2.6666667461,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 2.0000000000,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 5142
+          }
+        }, {
+          "beginTime" : 2.1666667461,
+          "endTime" : 2.6666667461,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "86 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.1666667461,
+          "endTime" : 2.6666667461,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 2.6666667461,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15636508 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4189320 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.2333333343,
+          "endTime" : 0.2666666806,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006006
+          }
+        }, {
+          "beginTime" : 1.7999999523,
+          "endTime" : 1.8999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 3.8333332539,
+          "endTime" : 3.9333333969,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293004000
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2000000030,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006002
+          }
+        }, {
+          "beginTime" : 0.8999999762,
+          "endTime" : 0.9333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 293006001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }],
+  "animGroups" : [{
+      "firstAnimId" : 0,
+      "lastAnimId" : 0
+    }, {
+      "firstAnimId" : 6,
+      "lastAnimId" : 6
+    }, {
+      "firstAnimId" : 200,
+      "lastAnimId" : 203
+    }, {
+      "firstAnimId" : 500,
+      "lastAnimId" : 501
+    }, {
+      "firstAnimId" : 602,
+      "lastAnimId" : 605
+    }, {
+      "firstAnimId" : 701,
+      "lastAnimId" : 701
+    }, {
+      "firstAnimId" : 1500,
+      "lastAnimId" : 1500
+    }, {
+      "firstAnimId" : 1510,
+      "lastAnimId" : 1510
+    }, {
+      "firstAnimId" : 1520,
+      "lastAnimId" : 1520
+    }, {
+      "firstAnimId" : 1560,
+      "lastAnimId" : 1560
+    }, {
+      "firstAnimId" : 1570,
+      "lastAnimId" : 1570
+    }, {
+      "firstAnimId" : 1610,
+      "lastAnimId" : 1610
+    }, {
+      "firstAnimId" : 1620,
+      "lastAnimId" : 1620
+    }, {
+      "firstAnimId" : 1750,
+      "lastAnimId" : 1751
+    }, {
+      "firstAnimId" : 1760,
+      "lastAnimId" : 1760
+    }, {
+      "firstAnimId" : 1770,
+      "lastAnimId" : 1770
+    }, {
+      "firstAnimId" : 2000,
+      "lastAnimId" : 2002
+    }, {
+      "firstAnimId" : 2004,
+      "lastAnimId" : 2007
+    }, {
+      "firstAnimId" : 2010,
+      "lastAnimId" : 2014
+    }, {
+      "firstAnimId" : 2020,
+      "lastAnimId" : 2020
+    }, {
+      "firstAnimId" : 2030,
+      "lastAnimId" : 2032
+    }, {
+      "firstAnimId" : 2040,
+      "lastAnimId" : 2040
+    }, {
+      "firstAnimId" : 2050,
+      "lastAnimId" : 2053
+    }, {
+      "firstAnimId" : 2200,
+      "lastAnimId" : 2200
+    }, {
+      "firstAnimId" : 2202,
+      "lastAnimId" : 2203
+    }, {
+      "firstAnimId" : 2205,
+      "lastAnimId" : 2205
+    }, {
+      "firstAnimId" : 2207,
+      "lastAnimId" : 2207
+    }, {
+      "firstAnimId" : 2209,
+      "lastAnimId" : 2209
+    }, {
+      "firstAnimId" : 2250,
+      "lastAnimId" : 2250
+    }, {
+      "firstAnimId" : 2252,
+      "lastAnimId" : 2253
+    }, {
+      "firstAnimId" : 2255,
+      "lastAnimId" : 2255
+    }, {
+      "firstAnimId" : 2257,
+      "lastAnimId" : 2257
+    }, {
+      "firstAnimId" : 2259,
+      "lastAnimId" : 2259
+    }, {
+      "firstAnimId" : 2300,
+      "lastAnimId" : 2302
+    }, {
+      "firstAnimId" : 2330,
+      "lastAnimId" : 2333
+    }, {
+      "firstAnimId" : 2360,
+      "lastAnimId" : 2363
+    }, {
+      "firstAnimId" : 2400,
+      "lastAnimId" : 2402
+    }, {
+      "firstAnimId" : 2430,
+      "lastAnimId" : 2433
+    }, {
+      "firstAnimId" : 3000,
+      "lastAnimId" : 3001
+    }, {
+      "firstAnimId" : 3500,
+      "lastAnimId" : 3500
+    }, {
+      "firstAnimId" : 10000,
+      "lastAnimId" : 10000
+    }, {
+      "firstAnimId" : 10200,
+      "lastAnimId" : 10203
+    }, {
+      "firstAnimId" : 10700,
+      "lastAnimId" : 10700
+    }, {
+      "firstAnimId" : 12010,
+      "lastAnimId" : 12014
+    }, {
+      "firstAnimId" : 12020,
+      "lastAnimId" : 12020
+    }, {
+      "firstAnimId" : 12040,
+      "lastAnimId" : 12040
+    }, {
+      "firstAnimId" : 12200,
+      "lastAnimId" : 12200
+    }, {
+      "firstAnimId" : 12202,
+      "lastAnimId" : 12203
+    }, {
+      "firstAnimId" : 12205,
+      "lastAnimId" : 12205
+    }, {
+      "firstAnimId" : 12207,
+      "lastAnimId" : 12207
+    }, {
+      "firstAnimId" : 12209,
+      "lastAnimId" : 12210
+    }, {
+      "firstAnimId" : 12212,
+      "lastAnimId" : 12213
+    }, {
+      "firstAnimId" : 12215,
+      "lastAnimId" : 12215
+    }, {
+      "firstAnimId" : 12217,
+      "lastAnimId" : 12217
+    }, {
+      "firstAnimId" : 12219,
+      "lastAnimId" : 12219
+    }, {
+      "firstAnimId" : 13000,
+      "lastAnimId" : 13000
+    }],
+  "animIds" : [0, 6, 200, 201, 202, 203, 500, 501, 602, 603, 604, 605, 701, 1500, 1510, 1520, 1560, 1570, 1610, 1620,
+    1750, 1751, 1760, 1770, 2000, 2001, 2002, 2004, 2005, 2006, 2007, 2010, 2011, 2012, 2013, 2014, 2020, 2030, 2031,
+    2032, 2040, 2050, 2051, 2052, 2053, 2200, 2202, 2203, 2205, 2207, 2209, 2250, 2252, 2253, 2255, 2257, 2259, 2300,
+    2301, 2302, 2330, 2331, 2332, 2333, 2360, 2361, 2362, 2363, 2400, 2401, 2402, 2430, 2431, 2432, 2433, 3000, 3001,
+    3500, 10000, 10200, 10201, 10202, 10203, 10700, 12010, 12011, 12012, 12013, 12014, 12020, 12040, 12200, 12202,
+    12203, 12205, 12207, 12209, 12210, 12212, 12213, 12215, 12217, 12219, 13000],
+  "header" : {
+    "unk1" : "0 or 0.000",
+    "unk2" : "65547 or 0.000",
+    "unk3" : ["64 or 0.000", "1 or 0.000", "80 or 0.000", "112 or 0.000", "65538 or 0.000", "0 or 0.000", "0 or 0.000", "0 or 0.000", "0 or 0.000", "0 or 0.000", "0 or 0.000", "0 or 0.000", "33619969 or 0.000", "16842754 or 0.000", "1 or 0.000", "0 or 0.000"],
+    "unk4" : "202930 or 0.000",
+    "unk5" : "144 or 0.000",
+    "unk6" : ["0 or 0.000", "1 or 0.000", "128 or 0.000", "0 or 0.000", "0 or 0.000", "202930 or 0.000", "202930 or 0.000", "80 or 0.000", "0 or 0.000", "0 or 0.000"]
+  },
+  "sibName" : "c2930.sib",
+  "skeletonHkxName" : "skeleton.HKXwin"
+}

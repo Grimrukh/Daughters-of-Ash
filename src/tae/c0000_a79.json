@@ -1,0 +1,2058 @@
+{
+  "animData" : [{
+      "animFile" : {
+        "name" : "a79_3300.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 301,
+          "vars" : {
+            "var0" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.2333333492,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "72 or 0.000",
+            "var1" : "1035489772 or 0.090",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.2666666508,
+          "type" : 226,
+          "vars" : {
+            "var0" : "80 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 1.2666666508,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "56 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.1666666269,
+          "endTime" : 1.2666666508,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "57 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.2666666508,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 120
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 1.2333333492,
+          "type" : 2,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "800 or 0.000",
+            "var3" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.9666666389,
+          "endTime" : 1.0000000000,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "63 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.1666666269,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "5 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "87 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.1666667461,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "4 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.2333333492,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "16 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.2999999523,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "11 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.8333333135,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.0333333015,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.2333333492,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "22 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.0999999046,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "26 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.2333333492,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "31 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.2333333492,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "29 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.2999999523,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "32 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 2.2999999523,
+          "type" : 225,
+          "vars" : {
+            "var0" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.2999999523,
+          "type" : 232,
+          "vars" : {
+            "var0" : "168107550 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 2.1333334446,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 31
+          }
+        }, {
+          "beginTime" : 0.2666666806,
+          "endTime" : 0.3000000119,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 1001
+          }
+        }, {
+          "beginTime" : 1.0666667223,
+          "endTime" : 1.2999999523,
+          "type" : 118,
+          "vars" : {
+            "var0" : "23023 or 0.000",
+            "var1" : "7864322 or 0.000",
+            "var2" : "65636 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.1666666269,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 2001
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.3333333731,
+          "type" : 145,
+          "vars" : {
+            "var0" : "65 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.6666667461,
+          "endTime" : 2.7000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 1001
+          }
+        }, {
+          "beginTime" : 3.0999999046,
+          "endTime" : 3.1333334446,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 1001
+          }
+        }, {
+          "beginTime" : 0.2333333343,
+          "endTime" : 0.2666666806,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.7333333492,
+          "endTime" : 0.7666666508,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.0666667223,
+          "endTime" : 1.1000000238,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3200,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 1.1333333254,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3200,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.7333333492,
+          "endTime" : 1.7666666508,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.7000000477,
+          "endTime" : 2.7333333492,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 3.0999999046,
+          "endTime" : 3.1333334446,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 1.1333333254,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3000,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.1666666269,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3000,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.6666666269,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 23022,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : 10
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2666666806,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "4165200 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4157304 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.0666667223,
+          "endTime" : 1.1000000238,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 4300
+          }
+        }, {
+          "beginTime" : 1.2333333492,
+          "endTime" : 1.3333333731,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 5500
+          }
+        }, {
+          "beginTime" : 0.2000000030,
+          "endTime" : 0.2333333343,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 0
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 1.1333333254,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 100
+          }
+        }, {
+          "beginTime" : 2.5999999046,
+          "endTime" : 2.6333334446,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 400
+          }
+        }, {
+          "beginTime" : 3.0666666031,
+          "endTime" : 3.0999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 0
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 793300,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.4333333373,
+          "type" : 16,
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "4165468 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4173952 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.7999999523,
+          "endTime" : 2.8333332539,
+          "type" : 24,
+          "vars" : {
+            "var0" : "2 or 0.000",
+            "var1" : "253001 or 0.000",
+            "var2" : "253311 or 0.000",
+            "var3" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.0333333015,
+          "endTime" : 1.0666667223,
+          "type" : 144,
+          "typeName" : "ScreenShake",
+          "vars" : {
+            "var0" : "524353 or 0.000",
+            "var1_duration" : 10.0000000000,
+            "var2_magnitude" : 20.0000000000
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a79_3305.hkxwin",
+        "type" : 0,
+        "unk1" : 256,
+        "unk2" : 793300,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 301,
+          "vars" : {
+            "var0" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.2333333492,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "72 or 0.000",
+            "var1" : "1035489772 or 0.090",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.2666666508,
+          "type" : 226,
+          "vars" : {
+            "var0" : "80 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 1.2666666508,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "56 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.1666666269,
+          "endTime" : 1.2666666508,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "57 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.2666666508,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 100
+          }
+        }, {
+          "beginTime" : 0.9666666389,
+          "endTime" : 1.0000000000,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "63 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.1666666269,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "5 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "87 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.1666667461,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "4 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.2333333492,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "16 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.2999999523,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "11 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.8333333135,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.0333333015,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.2333333492,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "22 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.0999999046,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "26 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.2333333492,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "31 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.2333333492,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "29 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.2999999523,
+          "endTime" : 3.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "32 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 2.2999999523,
+          "type" : 225,
+          "vars" : {
+            "var0" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.2999999523,
+          "type" : 232,
+          "vars" : {
+            "var0" : "168107550 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 2.1333334446,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 31
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "4167040 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4176424 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.0666667223,
+          "endTime" : 1.1000000238,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 4300
+          }
+        }, {
+          "beginTime" : 1.0666667223,
+          "endTime" : 1.2999999523,
+          "type" : 118,
+          "vars" : {
+            "var0" : "250 or 0.000",
+            "var1" : "7864322 or 0.000",
+            "var2" : "65636 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.2333333492,
+          "endTime" : 1.3333333731,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 5500
+          }
+        }, {
+          "beginTime" : 0.2333333343,
+          "endTime" : 0.2666666806,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.7333333492,
+          "endTime" : 0.7666666508,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.0666667223,
+          "endTime" : 1.1000000238,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3200,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 1.1333333254,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3200,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.7333333492,
+          "endTime" : 1.7666666508,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.7000000477,
+          "endTime" : 2.7333333492,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 3.0999999046,
+          "endTime" : 3.1333334446,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 1.1333333254,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3000,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.1666666269,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3000,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.2000000030,
+          "endTime" : 0.2333333343,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 0
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 1.1333333254,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 100
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.3333333731,
+          "type" : 145,
+          "vars" : {
+            "var0" : "65 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.5999999046,
+          "endTime" : 2.6333334446,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 400
+          }
+        }, {
+          "beginTime" : 3.0666666031,
+          "endTime" : 3.0999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 0
+          }
+        }, {
+          "beginTime" : 0.2666666806,
+          "endTime" : 0.3000000119,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 1001
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.1666666269,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 2001
+          }
+        }, {
+          "beginTime" : 2.6666667461,
+          "endTime" : 2.7000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 1001
+          }
+        }, {
+          "beginTime" : 3.0999999046,
+          "endTime" : 3.1333334446,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 1001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 793305,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 793300,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "144 or 0.000",
+            "var1" : "4167680 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4177528 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.8666666746,
+          "endTime" : 0.8999999762,
+          "type" : 144,
+          "typeName" : "ScreenShake",
+          "vars" : {
+            "var0" : "524353 or 0.000",
+            "var1_duration" : 10.0000000000,
+            "var2_magnitude" : 20.0000000000
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 793305,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "145 or 0.000",
+            "var1" : "4167808 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4174736 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.3333333731,
+          "type" : 145,
+          "vars" : {
+            "var0" : "65 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a79_4300.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 301,
+          "vars" : {
+            "var0" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.2666666508,
+          "endTime" : 1.3666666746,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "72 or 0.000",
+            "var1" : "1035489772 or 0.090",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2666666508,
+          "endTime" : 1.3999999762,
+          "type" : 226,
+          "vars" : {
+            "var0" : "80 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.3999999762,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "56 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.3999999762,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "57 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2666666508,
+          "endTime" : 1.3999999762,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 320
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.3666666746,
+          "type" : 2,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "801 or 0.000",
+            "var3" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 1.1333333254,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "63 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2666666508,
+          "endTime" : 1.2999999523,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "5 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2333333492,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "87 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.4000000954,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "4 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.4000000954,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "11 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.4000000954,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "22 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.2333333492,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "26 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.4000000954,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "31 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.4000000954,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "29 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.4000000954,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "32 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 2.5333333015,
+          "type" : 225,
+          "vars" : {
+            "var0" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.4333332777,
+          "type" : 232,
+          "vars" : {
+            "var0" : "168107550 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 2.4000000954,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 31
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.2333333343,
+          "type" : 16,
+          "vars" : {
+            "var0" : "118 or 0.000",
+            "var1" : "4169448 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4175856 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.9666666389,
+          "endTime" : 1.6000000238,
+          "type" : 118,
+          "vars" : {
+            "var0" : "23023 or 0.000",
+            "var1" : "7864322 or 0.000",
+            "var2" : "65636 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.2666666508,
+          "endTime" : 1.2999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 4300
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.0333333351,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0666666701,
+          "endTime" : 0.1000000015,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.1000000015,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 0
+          }
+        }, {
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.3333333433,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3200,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.3666666746,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3200,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 1.1333333254,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.3999999762,
+          "endTime" : 1.4333332777,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 100
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 1.4666666985,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3200,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.2999999523,
+          "endTime" : 2.3333332539,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 400
+          }
+        }, {
+          "beginTime" : 2.4666666985,
+          "endTime" : 2.5000000000,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.7999999523,
+          "endTime" : 2.8333332539,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 400
+          }
+        }, {
+          "beginTime" : 2.8666665554,
+          "endTime" : 2.9000000954,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 3.0666666031,
+          "endTime" : 3.0999999046,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 3.0999999046,
+          "endTime" : 3.1333334446,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 0
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2000000030,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 1001
+          }
+        }, {
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.3333333433,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 1001
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.3666666746,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3000,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3000,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.3666666746,
+          "type" : 145,
+          "vars" : {
+            "var0" : "65 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 1.4666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 2001
+          }
+        }, {
+          "beginTime" : 1.4666666985,
+          "endTime" : 1.5000000000,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3000,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.8666665554,
+          "endTime" : 2.9000000954,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 1001
+          }
+        }, {
+          "beginTime" : 3.1333334446,
+          "endTime" : 3.1666667461,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 1001
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.6666666269,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 23022,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : 10
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 794300,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.4333333373,
+          "type" : 16,
+          "vars" : {
+            "var0" : "24 or 0.000",
+            "var1" : "4170200 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4177624 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.7999999523,
+          "endTime" : 2.8333332539,
+          "type" : 24,
+          "vars" : {
+            "var0" : "2 or 0.000",
+            "var1" : "254001 or 0.000",
+            "var2" : "254311 or 0.000",
+            "var3" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.0333333015,
+          "endTime" : 1.0666667223,
+          "type" : 144,
+          "typeName" : "ScreenShake",
+          "vars" : {
+            "var0" : "524353 or 0.000",
+            "var1_duration" : 10.0000000000,
+            "var2_magnitude" : 20.0000000000
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a79_4305.hkxwin",
+        "type" : 0,
+        "unk1" : 256,
+        "unk2" : 794300,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 301,
+          "vars" : {
+            "var0" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.2666666508,
+          "endTime" : 1.3666666746,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "72 or 0.000",
+            "var1" : "1035489772 or 0.090",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2666666508,
+          "endTime" : 1.3999999762,
+          "type" : 226,
+          "vars" : {
+            "var0" : "80 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.3999999762,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "56 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.3999999762,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "57 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2666666508,
+          "endTime" : 1.3999999762,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 300
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 1.1333333254,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "63 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2666666508,
+          "endTime" : 1.2999999523,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "5 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2333333492,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "87 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.4000000954,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "4 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.4000000954,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "11 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.4000000954,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "22 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.2333333492,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "26 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.4000000954,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "31 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.4000000954,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "29 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 2.4000000954,
+          "endTime" : 3.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "32 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 2.5333333015,
+          "type" : 225,
+          "vars" : {
+            "var0" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.4333332777,
+          "type" : 232,
+          "vars" : {
+            "var0" : "168107550 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 2.4000000954,
+          "type" : 66,
+          "typeName" : "SpEffect",
+          "vars" : {
+            "var0_effectId" : 31
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "118 or 0.000",
+            "var1" : "4171800 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4178760 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.2333333492,
+          "endTime" : 1.5000000000,
+          "type" : 118,
+          "vars" : {
+            "var0" : "250 or 0.000",
+            "var1" : "7864322 or 0.000",
+            "var2" : "65636 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.2666666508,
+          "endTime" : 1.2999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 4300
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.0333333351,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0666666701,
+          "endTime" : 0.1000000015,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.3333333433,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3200,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.3666666746,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3200,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 1.1333333254,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 1.4666666985,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3200,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.4666666985,
+          "endTime" : 2.5000000000,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.8666665554,
+          "endTime" : 2.9000000954,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 3.0666666031,
+          "endTime" : 3.0999999046,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3100,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.3666666746,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3000,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4000000060,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3000,
+            "var1" : "5 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.4666666985,
+          "endTime" : 1.5000000000,
+          "type" : 112,
+          "typeName" : "ParticlesLarge",
+          "vars" : {
+            "var0_sfxId" : 3000,
+            "var1" : "6 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.1000000015,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 0
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.3666666746,
+          "type" : 145,
+          "vars" : {
+            "var0" : "65 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.3999999762,
+          "endTime" : 1.4333332777,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 100
+          }
+        }, {
+          "beginTime" : 2.2999999523,
+          "endTime" : 2.3333332539,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 400
+          }
+        }, {
+          "beginTime" : 2.7999999523,
+          "endTime" : 2.8333332539,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 400
+          }
+        }, {
+          "beginTime" : 3.0999999046,
+          "endTime" : 3.1333334446,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "9 or 0.000",
+            "var1_soundId" : 0
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2000000030,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 1001
+          }
+        }, {
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.3333333433,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 1001
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 1.4666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 2001
+          }
+        }, {
+          "beginTime" : 2.8666665554,
+          "endTime" : 2.9000000954,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 1001
+          }
+        }, {
+          "beginTime" : 3.1333334446,
+          "endTime" : 3.1666667461,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "8 or 0.000",
+            "var1_soundId" : 1001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 794305,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "145 or 0.000",
+            "var1" : "4172500 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4184144 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.3666666746,
+          "type" : 145,
+          "vars" : {
+            "var0" : "65 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 794300,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 16,
+          "vars" : {
+            "var0" : "144 or 0.000",
+            "var1" : "4172620 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4184304 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.8666666746,
+          "endTime" : 0.8999999762,
+          "type" : 144,
+          "typeName" : "ScreenShake",
+          "vars" : {
+            "var0" : "524353 or 0.000",
+            "var1_duration" : 10.0000000000,
+            "var2_magnitude" : 20.0000000000
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 794305,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "145 or 0.000",
+            "var1" : "4172748 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4184464 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.3666666746,
+          "type" : 145,
+          "vars" : {
+            "var0" : "65 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }],
+  "animGroups" : [{
+      "firstAnimId" : 3300,
+      "lastAnimId" : 3301
+    }, {
+      "firstAnimId" : 3305,
+      "lastAnimId" : 3306
+    }, {
+      "firstAnimId" : 3310,
+      "lastAnimId" : 3310
+    }, {
+      "firstAnimId" : 3315,
+      "lastAnimId" : 3315
+    }, {
+      "firstAnimId" : 4300,
+      "lastAnimId" : 4301
+    }, {
+      "firstAnimId" : 4305,
+      "lastAnimId" : 4306
+    }, {
+      "firstAnimId" : 4310,
+      "lastAnimId" : 4310
+    }, {
+      "firstAnimId" : 4315,
+      "lastAnimId" : 4315
+    }],
+  "animIds" : [3300, 3301, 3305, 3306, 3310, 3315, 4300, 4301, 4305, 4306, 4310, 4315],
+  "header" : {
+    "unk1" : "0 or 0.000",
+    "unk2" : "65547 or 0.000",
+    "unk3" : ["64 or 0.000", "1 or 0.000", "80 or 0.000", "112 or 0.000", "65538 or 0.000", "0 or 0.000", "0 or 0.000", "0 or 0.000", "0 or 0.000", "0 or 0.000", "0 or 0.000", "0 or 0.000", "33619969 or 0.000", "16842754 or 0.000", "1 or 0.000", "0 or 0.000"],
+    "unk4" : "2079 or 0.000",
+    "unk5" : "144 or 0.000",
+    "unk6" : ["0 or 0.000", "1 or 0.000", "128 or 0.000", "0 or 0.000", "0 or 0.000", "2079 or 0.000", "2079 or 0.000", "80 or 0.000", "0 or 0.000", "0 or 0.000"]
+  },
+  "sibName" : "c9990.SIB",
+  "skeletonHkxName" : "skeleton.HKXwin"
+}

@@ -1,0 +1,6145 @@
+{
+  "animData" : [{
+      "animFile" : {
+        "name" : "a00_0000.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15601804 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4165608 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0006.hkxwin",
+        "type" : 0,
+        "unk1" : 256,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15601804 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4165608 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 2.0000000000,
+          "type" : 193,
+          "typeName" : "FadeOpacity",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 2.5000000000,
+          "type" : 193,
+          "typeName" : "FadeOpacity",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "1065353216 or 1.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0007.hkxwin",
+        "type" : 0,
+        "unk1" : 256,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15601804 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4165608 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.0666666776,
+          "type" : 193,
+          "typeName" : "FadeOpacity",
+          "vars" : {
+            "var0" : "1065353216 or 1.000",
+            "var1" : "1065353216 or 1.000"
+          }
+        }, {
+          "beginTime" : 0.0666666776,
+          "endTime" : 0.3000000119,
+          "type" : 193,
+          "typeName" : "FadeOpacity",
+          "vars" : {
+            "var0" : "1065353216 or 1.000",
+            "var1" : "0 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0200.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15602084 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15630504 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.2666666806,
+          "endTime" : 0.3666666746,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.2666666806,
+          "endTime" : 0.3666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.6333333254,
+          "endTime" : 1.7333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.7000000477,
+          "endTime" : 1.7999999523,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.2666666806,
+          "endTime" : 0.3666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 1.6666666269,
+          "endTime" : 1.7666666508,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0201.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15602512 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15630984 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.2666666806,
+          "endTime" : 0.3666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4666666687,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.7666666508,
+          "endTime" : 1.8666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.9333332777,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4666666687,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.9333332777,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0202.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15602960 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15632304 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.6666666865,
+          "endTime" : 0.7666666508,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.8000000119,
+          "endTime" : 0.8999999762,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.7999999523,
+          "endTime" : 1.8999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.9333332777,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.7333333492,
+          "endTime" : 0.8333333135,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 1.8666666746,
+          "endTime" : 1.9666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0203.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15603404 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15632848 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.4333333373,
+          "endTime" : 0.5333333611,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.5333333611,
+          "endTime" : 0.6333333254,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.4333332777,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.6333333254,
+          "endTime" : 1.7333333492,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.6000000238,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 1.5666667223,
+          "endTime" : 1.6666666269,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0500.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15603836 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4153384 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.2333333343,
+          "endTime" : 0.3333333433,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.2666666806,
+          "endTime" : 0.3666666746,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.8000000119,
+          "endTime" : 0.8999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.8666666746,
+          "endTime" : 0.9666666389,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.2333333343,
+          "endTime" : 0.3333333433,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411002001
+          }
+        }, {
+          "beginTime" : 0.8666666746,
+          "endTime" : 0.9666666389,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411002001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0602.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15604268 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4153864 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.5333333611,
+          "endTime" : 0.6333333254,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.5666666627,
+          "endTime" : 0.6666666865,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 1.2999999523,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.3999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.6333333254,
+          "endTime" : 0.7333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 1.2999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0603.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15604700 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4154344 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.5666666627,
+          "endTime" : 0.6666666865,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.5666666627,
+          "endTime" : 0.6666666865,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.2333333492,
+          "endTime" : 1.3333333731,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.2666666508,
+          "endTime" : 1.3666666746,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.5666666627,
+          "endTime" : 0.6666666865,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.3999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0604.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15605268 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4156728 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.5000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.5333333611,
+          "endTime" : 0.6333333254,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.0666667223,
+          "endTime" : 1.1666666269,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.2333333492,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.7000000477,
+          "endTime" : 1.7999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.7999999523,
+          "endTime" : 1.8999999762,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 2.4000000954,
+          "endTime" : 2.5000000000,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 2.5333333015,
+          "endTime" : 2.6333334446,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.6000000238,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 1.2000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 1.7999999523,
+          "endTime" : 1.8999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 2.4000000954,
+          "endTime" : 2.5000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_0605.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15605996 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15633168 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.4333333373,
+          "endTime" : 0.5333333611,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.6000000238,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.9666666389,
+          "endTime" : 1.0666667223,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.2333333492,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.7666666508,
+          "endTime" : 1.8666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.7999999523,
+          "endTime" : 1.8999999762,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 2.3666665554,
+          "endTime" : 2.4666666985,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 2.3666665554,
+          "endTime" : 2.4666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.4666666687,
+          "endTime" : 0.5666666627,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.2333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.9333332777,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 2.4000000954,
+          "endTime" : 2.5000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_1500.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.4000000060,
+          "type" : 5,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "20211 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "5 or 0.000",
+            "var1" : "15606532 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15634064 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.8333333135,
+          "type" : 5,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "20211 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.8333333135,
+          "endTime" : 1.2333333492,
+          "type" : 5,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "20211 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.2333333492,
+          "endTime" : 1.7333333492,
+          "type" : 5,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "20211 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 1500,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 1500,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2200,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2200,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_1750.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 5,
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "20212 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.1000000015,
+          "endTime" : 0.2000000030,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411003001
+          }
+        }, {
+          "beginTime" : 0.2000000030,
+          "endTime" : 0.3000000119,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411002001
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.0000000000,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15607184 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4166008 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.1000000015,
+          "endTime" : 0.1333333403,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.1333333403,
+          "endTime" : 0.2333333343,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2666666806,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 1750,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 1750,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 1750,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2200.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15607984 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4169264 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2666666806,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.8666666746,
+          "endTime" : 3.5333333015,
+          "type" : 193,
+          "typeName" : "FadeOpacity",
+          "vars" : {
+            "var0" : "1065353216 or 1.000",
+            "var1" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.1333334446,
+          "endTime" : 2.2333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 2.2999999523,
+          "endTime" : 2.4000000954,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 2.3666665554,
+          "endTime" : 2.4666666985,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "12 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.5333333015,
+          "endTime" : 7.2333331108,
+          "type" : 193,
+          "typeName" : "FadeOpacity",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.1000000015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 999999997
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 3.9666666985,
+          "type" : 109,
+          "vars" : {
+            "var0" : "15015 or 0.000",
+            "var1" : "7 or 0.000",
+            "var2" : "10 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.7666666508,
+          "endTime" : 1.2333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 888888889
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 2.0999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 2.1666667461,
+          "endTime" : 2.2666666508,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411003001
+          }
+        }, {
+          "beginTime" : 2.4333333969,
+          "endTime" : 2.5333333015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411002001
+          }
+        }, {
+          "beginTime" : 0.5666666627,
+          "endTime" : 3.4333333969,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 15015,
+            "var1_damipoly0" : 6,
+            "var2_damipoly1" : 11
+          }
+        }, {
+          "beginTime" : 0.9333333373,
+          "endTime" : 3.6666667461,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 15015,
+            "var1_damipoly0" : 5,
+            "var2_damipoly1" : 12
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 3.6666667461,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 15015,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : 13
+          }
+        }, {
+          "beginTime" : 1.7333333492,
+          "endTime" : 3.9333333969,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 15015,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : 14
+          }
+        }, {
+          "beginTime" : 1.0000000000,
+          "endTime" : 4.1333332062,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 15015,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : 15
+          }
+        }, {
+          "beginTime" : 1.5333333015,
+          "endTime" : 3.8666665554,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 15015,
+            "var1_damipoly0" : 1,
+            "var2_damipoly1" : 16
+          }
+        }, {
+          "beginTime" : 0.6333333254,
+          "endTime" : 4.0666666031,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 15016,
+            "var1_damipoly0" : 30,
+            "var2_damipoly1" : 18
+          }
+        }, {
+          "beginTime" : 1.5333333015,
+          "endTime" : 5.3333334923,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 15014,
+            "var1_damipoly0" : 90,
+            "var2_damipoly1" : 19
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2200,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2200,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2200,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2200,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2200,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2200,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_2250.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.5000000000,
+          "type" : 193,
+          "typeName" : "FadeOpacity",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "15608892 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4155864 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "linkedAnimId" : 2250,
+        "name" : "",
+        "type" : 1,
+        "unk1" : 0,
+        "unk2" : 0,
+        "unk3" : 0
+      },
+      "events" : [],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_3000.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15609700 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4156136 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.1333333403,
+          "endTime" : 0.2333333343,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 1.2999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.5333333015,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 100
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.3333333731,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 1,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.3666666746,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 1,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.3666666746,
+          "endTime" : 1.3999999762,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 1,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 1.4666666985,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 1,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.5000000000,
+          "endTime" : 1.5333333015,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 1,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 3.0999999046,
+          "endTime" : 3.2000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 3.5000000000,
+          "endTime" : 3.5999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.1333333403,
+          "endTime" : 0.2333333343,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.1333333403,
+          "endTime" : 0.2333333343,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 3.5333333015,
+          "endTime" : 3.6333334446,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 3.6333334446,
+          "endTime" : 3.7333333492,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.5333333015,
+          "endTime" : 2.9666666985,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 4.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.0000000000,
+          "endTime" : 3.3333332539,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004002 or 0.000",
+            "var2" : "1 or 0.000",
+            "var3" : "1 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3333333433,
+          "type" : 224,
+          "typeName" : "TrackingSpeed",
+          "vars" : {
+            "var0_degreesPerSecond" : 270.0000000000
+          }
+        }, {
+          "beginTime" : 1.1666666269,
+          "endTime" : 3.3333332539,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004001 or 0.000",
+            "var2" : "1 or 0.000",
+            "var3" : "2 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 4.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.8666665554,
+          "endTime" : 4.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "86 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.8666665554,
+          "endTime" : 4.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.8666665554,
+          "endTime" : 4.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.5333333015,
+          "type" : 500,
+          "vars" : {
+            "var0" : "1 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_3001.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "15611024 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4170584 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.5000000000,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 110
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.3333333731,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.3666666746,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.3666666746,
+          "endTime" : 1.3999999762,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 1.4666666985,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.5000000000,
+          "endTime" : 1.5333333015,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.1333333403,
+          "endTime" : 0.2333333343,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.2000000030,
+          "endTime" : 0.3000000119,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 1.2999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 3.0999999046,
+          "endTime" : 3.2000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 3.5000000000,
+          "endTime" : 3.5999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 3.6333334446,
+          "endTime" : 3.7333333492,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.5000000000,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.5000000000,
+          "endTime" : 2.9333333969,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.1333333403,
+          "endTime" : 0.2333333343,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 4.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.5333333015,
+          "endTime" : 3.6333334446,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.5000000000,
+          "type" : 224,
+          "typeName" : "TrackingSpeed",
+          "vars" : {
+            "var0_degreesPerSecond" : 270.0000000000
+          }
+        }, {
+          "beginTime" : 1.0000000000,
+          "endTime" : 3.3333332539,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004002 or 0.000",
+            "var2" : "2 or 0.000",
+            "var3" : "1 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1666666269,
+          "endTime" : 3.3333332539,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004001 or 0.000",
+            "var2" : "2 or 0.000",
+            "var3" : "2 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.0000000000,
+          "endTime" : 4.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.6666667461,
+          "endTime" : 4.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "86 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.6666667461,
+          "endTime" : 4.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.6666667461,
+          "endTime" : 4.4000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.5000000000,
+          "type" : 500,
+          "vars" : {
+            "var0" : "2 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_3002.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "15612364 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4167208 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.8666666746,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 120
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 2.0666666031,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14112,
+            "var1_damipoly0" : 1,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.4000000060,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.4333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 1.2999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.7999999523,
+          "endTime" : 1.8999999762,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.9333332777,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004000
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 2.0000000000,
+          "type" : 144,
+          "typeName" : "ScreenShake",
+          "vars" : {
+            "var0" : "65642 or 0.000",
+            "var1_duration" : 5.0000000000,
+            "var2_magnitude" : 25.0000000000
+          }
+        }, {
+          "beginTime" : 3.0999999046,
+          "endTime" : 3.2000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 3.7666666508,
+          "endTime" : 3.8666665554,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 3.8666665554,
+          "endTime" : 3.9666666985,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.7333333492,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.8666666746,
+          "endTime" : 3.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.4333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 0.7333333492,
+          "endTime" : 1.4333332777,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.7999999523,
+          "endTime" : 4.5666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.9333332777,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411002001
+          }
+        }, {
+          "beginTime" : 3.7999999523,
+          "endTime" : 3.9000000954,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.7333333492,
+          "type" : 224,
+          "typeName" : "TrackingSpeed",
+          "vars" : {
+            "var0_degreesPerSecond" : 123.0000000000
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 1.7999999523,
+          "type" : 224,
+          "typeName" : "TrackingSpeed",
+          "vars" : {
+            "var0_degreesPerSecond" : 164.0000000000
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 3.7666666508,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004002 or 0.000",
+            "var2" : "1 or 0.000",
+            "var3" : "1 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.5666667223,
+          "endTime" : 3.7333333492,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004001 or 0.000",
+            "var2" : "1 or 0.000",
+            "var3" : "2 or 0.000"
+          }
+        }, {
+          "beginTime" : 2.3333332539,
+          "endTime" : 4.5666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.9000000954,
+          "endTime" : 4.5666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "86 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.9000000954,
+          "endTime" : 4.5666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.9000000954,
+          "endTime" : 4.5666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_3003.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "96 or 0.000",
+            "var1" : "15613724 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4168616 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.4333333373,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.7999999523,
+          "endTime" : 1.8999999762,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.8666666746,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 130
+          }
+        }, {
+          "beginTime" : 3.8333332539,
+          "endTime" : 3.9333333969,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 2.0999999046,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14112,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 2.0000000000,
+          "type" : 144,
+          "typeName" : "ScreenShake",
+          "vars" : {
+            "var0" : "131178 or 0.000",
+            "var1_duration" : 5.0000000000,
+            "var2_magnitude" : 25.0000000000
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.7333333492,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.8666666746,
+          "endTime" : 3.0333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.4333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.7333333492,
+          "endTime" : 1.4333332777,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 1.2999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.7999999523,
+          "endTime" : 4.5666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.9333332777,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004000
+          }
+        }, {
+          "beginTime" : 3.0999999046,
+          "endTime" : 3.2000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 3.7666666508,
+          "endTime" : 3.8666665554,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.7333333492,
+          "type" : 224,
+          "typeName" : "TrackingSpeed",
+          "vars" : {
+            "var0_degreesPerSecond" : 123.0000000000
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.4333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 1.7999999523,
+          "type" : 224,
+          "typeName" : "TrackingSpeed",
+          "vars" : {
+            "var0_degreesPerSecond" : 164.0000000000
+          }
+        }, {
+          "beginTime" : 1.8333333731,
+          "endTime" : 1.9333332777,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411002001
+          }
+        }, {
+          "beginTime" : 3.7999999523,
+          "endTime" : 3.9000000954,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 3.7666666508,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004002 or 0.000",
+            "var2" : "2 or 0.000",
+            "var3" : "1 or 0.000"
+          }
+        }, {
+          "beginTime" : 3.3333332539,
+          "endTime" : 4.5666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.5666667223,
+          "endTime" : 3.7333333492,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004001 or 0.000",
+            "var2" : "2 or 0.000",
+            "var3" : "2 or 0.000"
+          }
+        }, {
+          "beginTime" : 3.9000000954,
+          "endTime" : 4.5666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "86 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.9000000954,
+          "endTime" : 4.5666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.9000000954,
+          "endTime" : 4.5666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_3004.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "96 or 0.000",
+            "var1" : "15615072 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4176200 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.6666666865,
+          "endTime" : 0.7666666508,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.5666667223,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 140
+          }
+        }, {
+          "beginTime" : 4.2333331108,
+          "endTime" : 4.3333334923,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.4666666687,
+          "endTime" : 0.5666666627,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 1.2999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.3333333731,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 1,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.3666666746,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 1,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.3666666746,
+          "endTime" : 1.3999999762,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 1,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 1.4666666985,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 1,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.5000000000,
+          "endTime" : 1.5333333015,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 1,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 3.2999999523,
+          "endTime" : 3.4000000954,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 4.3000001907,
+          "endTime" : 4.4000000954,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.7666666508,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.5666667223,
+          "endTime" : 3.1666667461,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.4666666687,
+          "endTime" : 0.5666666627,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 0.7666666508,
+          "endTime" : 4.7333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 4.3333334923,
+          "endTime" : 4.4333333969,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.7666666508,
+          "type" : 224,
+          "typeName" : "TrackingSpeed",
+          "vars" : {
+            "var0_degreesPerSecond" : 180.0000000000
+          }
+        }, {
+          "beginTime" : 1.0000000000,
+          "endTime" : 3.3333332539,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004002 or 0.000",
+            "var2" : "1 or 0.000",
+            "var3" : "1 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1666666269,
+          "endTime" : 3.3333332539,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004001 or 0.000",
+            "var2" : "1 or 0.000",
+            "var3" : "2 or 0.000"
+          }
+        }, {
+          "beginTime" : 3.7999999523,
+          "endTime" : 4.7333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 4.3000001907,
+          "endTime" : 4.7333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "86 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 4.3000001907,
+          "endTime" : 4.7333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 4.3000001907,
+          "endTime" : 4.7333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.5666667223,
+          "type" : 500,
+          "vars" : {
+            "var0" : "1 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_3005.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "15616408 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4177592 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.5666667223,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 150
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.3333333731,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.3666666746,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.3666666746,
+          "endTime" : 1.3999999762,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 1.4666666985,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.5000000000,
+          "endTime" : 1.5333333015,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.6000000238,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.5666666627,
+          "endTime" : 0.6666666865,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 1.2999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 3.0333333015,
+          "endTime" : 3.1333334446,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 4.0000000000,
+          "endTime" : 4.0999999046,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 4.0333333015,
+          "endTime" : 4.1333332062,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.7666666508,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.5666667223,
+          "endTime" : 2.9666666985,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.6000000238,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 0.7666666508,
+          "endTime" : 4.7333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 4.0666666031,
+          "endTime" : 4.1666665077,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.7666666508,
+          "type" : 224,
+          "typeName" : "TrackingSpeed",
+          "vars" : {
+            "var0_degreesPerSecond" : 180.0000000000
+          }
+        }, {
+          "beginTime" : 1.0000000000,
+          "endTime" : 3.3333332539,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004002 or 0.000",
+            "var2" : "2 or 0.000",
+            "var3" : "1 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1666666269,
+          "endTime" : 3.3333332539,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004001 or 0.000",
+            "var2" : "2 or 0.000",
+            "var3" : "2 or 0.000"
+          }
+        }, {
+          "beginTime" : 3.5666666031,
+          "endTime" : 4.7333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 4.0666666031,
+          "endTime" : 4.7333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "86 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 4.0666666031,
+          "endTime" : 4.7333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 4.0666666031,
+          "endTime" : 4.7333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.5666667223,
+          "type" : 500,
+          "vars" : {
+            "var0" : "2 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_3006.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15617872 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4171912 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.4333333373,
+          "endTime" : 0.5333333611,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.6000000238,
+          "endTime" : 0.6333333254,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.6333333254,
+          "endTime" : 0.7333333492,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.3999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 1.3666666746,
+          "endTime" : 1.3999999762,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 160
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 1.4666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.4666666985,
+          "endTime" : 1.5666667223,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004000
+          }
+        }, {
+          "beginTime" : 2.5999999046,
+          "endTime" : 2.7000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 2.9666666985,
+          "endTime" : 3.0666666031,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 3.0000000000,
+          "endTime" : 3.0999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 3.5000000000,
+          "endTime" : 3.5999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 3.7000000477,
+          "endTime" : 3.7999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 3.7000000477,
+          "endTime" : 3.7999999523,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 4.4666666985,
+          "endTime" : 4.5666666031,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 5.0000000000,
+          "endTime" : 5.0999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 5.0666666031,
+          "endTime" : 5.1666665077,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.5000000000,
+          "endTime" : 0.6000000238,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004002
+          }
+        }, {
+          "beginTime" : 1.2666666508,
+          "endTime" : 1.9333332777,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14113,
+            "var1_damipoly0" : 230,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.3666666746,
+          "endTime" : 1.4666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411003001
+          }
+        }, {
+          "beginTime" : 1.3666666746,
+          "endTime" : 1.5333333015,
+          "type" : 144,
+          "typeName" : "ScreenShake",
+          "vars" : {
+            "var0" : "393323 or 0.000",
+            "var1_duration" : 10.0000000000,
+            "var2_magnitude" : 25.0000000000
+          }
+        }, {
+          "beginTime" : 1.4666666985,
+          "endTime" : 1.5666667223,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411002001
+          }
+        }, {
+          "beginTime" : 3.0333333015,
+          "endTime" : 3.1333334446,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 3.7999999523,
+          "endTime" : 3.9000000954,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 5.0999999046,
+          "endTime" : 5.1999998093,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.7666666508,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.3999999762,
+          "endTime" : 3.8333332539,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.7666666508,
+          "endTime" : 5.5666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.7666666508,
+          "type" : 224,
+          "typeName" : "TrackingSpeed",
+          "vars" : {
+            "var0_degreesPerSecond" : 90.0000000000
+          }
+        }, {
+          "beginTime" : 4.3333334923,
+          "endTime" : 5.5666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.1666665077,
+          "endTime" : 5.5666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "86 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.1666665077,
+          "endTime" : 5.5666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.1666665077,
+          "endTime" : 5.5666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_3007.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15619448 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4173656 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.6333333254,
+          "endTime" : 0.7333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.9666666985,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14114,
+            "var1_damipoly0" : 230,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.3999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 1.3666666746,
+          "endTime" : 1.3999999762,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 170
+          }
+        }, {
+          "beginTime" : 1.4333332777,
+          "endTime" : 1.4666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.4666666985,
+          "endTime" : 1.5666667223,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004000
+          }
+        }, {
+          "beginTime" : 3.0999999046,
+          "endTime" : 3.2000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 3.5000000000,
+          "endTime" : 3.5999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 4.2333331108,
+          "endTime" : 4.3333334923,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 4.4333333969,
+          "endTime" : 4.5333333015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 5.2333331108,
+          "endTime" : 5.3333334923,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.6000000238,
+          "endTime" : 0.6333333254,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.6333333254,
+          "endTime" : 0.7333333492,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.6999999881,
+          "endTime" : 0.8000000119,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004001
+          }
+        }, {
+          "beginTime" : 1.3666666746,
+          "endTime" : 1.4666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411003001
+          }
+        }, {
+          "beginTime" : 1.3666666746,
+          "endTime" : 1.5333333015,
+          "type" : 144,
+          "typeName" : "ScreenShake",
+          "vars" : {
+            "var0" : "393323 or 0.000",
+            "var1_duration" : 10.0000000000,
+            "var2_magnitude" : 25.0000000000
+          }
+        }, {
+          "beginTime" : 1.4666666985,
+          "endTime" : 1.5666667223,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411002001
+          }
+        }, {
+          "beginTime" : 2.3333332539,
+          "endTime" : 2.4000000954,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 1,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 2.4333333969,
+          "endTime" : 2.5666666031,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 3.4666666985,
+          "endTime" : 3.5666666031,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 3.5666666031,
+          "endTime" : 3.6666667461,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 4.4666666985,
+          "endTime" : 4.5666666031,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 4.5333333015,
+          "endTime" : 4.6333332062,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 5.3333334923,
+          "endTime" : 5.4333333969,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.8666666746,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.3999999762,
+          "endTime" : 4.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 5.7333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 4.8000001907,
+          "endTime" : 5.7333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.3666667938,
+          "endTime" : 5.7333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "86 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.3666667938,
+          "endTime" : 5.7333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 5.3666667938,
+          "endTime" : 5.7333331108,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_3008.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 6.9000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15620676 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4184640 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.3000000119,
+          "endTime" : 0.4000000060,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.5000000000,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.4666666687,
+          "endTime" : 0.5666666627,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 1.8666666746,
+          "endTime" : 1.9666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 4.0000000000,
+          "endTime" : 4.0999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 5.4333333969,
+          "endTime" : 5.5333333015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 5.6333332062,
+          "endTime" : 5.7333331108,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 5.8333334923,
+          "endTime" : 5.9333333969,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 6.1666665077,
+          "endTime" : 6.2666668892,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.4333333373,
+          "endTime" : 6.9000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.4333333373,
+          "endTime" : 6.9000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "86 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_3009.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.3999999762,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.3999999762,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "86 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.3999999762,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.3999999762,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15621376 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4185568 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.4666666687,
+          "endTime" : 0.5666666627,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.5333333611,
+          "endTime" : 0.6333333254,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 6.1666665077,
+          "endTime" : 6.2666668892,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.5333333611,
+          "endTime" : 0.6333333254,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_3011.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15622144 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4185952 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.1333333403,
+          "endTime" : 0.2333333343,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.9666666389,
+          "endTime" : 1.1666666269,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 110
+          }
+        }, {
+          "beginTime" : 1.0000000000,
+          "endTime" : 1.0333333015,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.0333333015,
+          "endTime" : 1.0666667223,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 1.1333333254,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.1666666269,
+          "endTime" : 1.2000000477,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14111,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 1.2999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 2.9333333969,
+          "endTime" : 3.0333333015,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 3.2333333492,
+          "endTime" : 3.3333332539,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2666666806,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.6999999881,
+          "endTime" : 0.8000000119,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.8000000119,
+          "endTime" : 0.8999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 3.2666666508,
+          "endTime" : 3.3666665554,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 3.2666666508,
+          "endTime" : 3.3666665554,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 0.8666666746,
+          "endTime" : 3.2000000477,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004002 or 0.000",
+            "var2" : "2 or 0.000",
+            "var3" : "1 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1666666269,
+          "endTime" : 2.5999999046,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.4000000060,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.8333333135,
+          "endTime" : 4.0666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.0333333015,
+          "endTime" : 3.2000000477,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004001 or 0.000",
+            "var2" : "2 or 0.000",
+            "var3" : "2 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.8333333135,
+          "type" : 224,
+          "typeName" : "TrackingSpeed",
+          "vars" : {
+            "var0_degreesPerSecond" : 270.0000000000
+          }
+        }, {
+          "beginTime" : 1.6666666269,
+          "endTime" : 4.0666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.3333332539,
+          "endTime" : 4.0666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "86 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.3333332539,
+          "endTime" : 4.0666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.3333332539,
+          "endTime" : 4.0666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.9666666389,
+          "endTime" : 1.1666666269,
+          "type" : 500,
+          "vars" : {
+            "var0" : "2 or 0.000"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_3012.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15623540 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4187360 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.4333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.2333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.1666666269,
+          "endTime" : 1.2000000477,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 120
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 1.4333332777,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14112,
+            "var1_damipoly0" : 1,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 2.7000000477,
+          "endTime" : 2.7999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 3.3666665554,
+          "endTime" : 3.4666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.1333333403,
+          "endTime" : 0.2333333343,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.1666666716,
+          "endTime" : 0.2666666806,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.4333333373,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.4666666687,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 1.0666667223,
+          "endTime" : 1.1666666269,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 1.1333333254,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411002001
+          }
+        }, {
+          "beginTime" : 1.1666666269,
+          "endTime" : 1.2666666508,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.1666666269,
+          "endTime" : 1.2666666508,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004000
+          }
+        }, {
+          "beginTime" : 1.1666666269,
+          "endTime" : 1.3333333731,
+          "type" : 144,
+          "typeName" : "ScreenShake",
+          "vars" : {
+            "var0" : "65642 or 0.000",
+            "var1_duration" : 5.0000000000,
+            "var2_magnitude" : 25.0000000000
+          }
+        }, {
+          "beginTime" : 2.9666666985,
+          "endTime" : 3.0666666031,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 3.0333333015,
+          "endTime" : 3.1333334446,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 0.7333333492,
+          "endTime" : 3.0666666031,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004002 or 0.000",
+            "var2" : "1 or 0.000",
+            "var3" : "1 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 2.3666665554,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.3666666746,
+          "endTime" : 0.7666666508,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.8333333135,
+          "endTime" : 3.0000000000,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004001 or 0.000",
+            "var2" : "1 or 0.000",
+            "var3" : "2 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 3.9000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3666666746,
+          "type" : 224,
+          "typeName" : "TrackingSpeed",
+          "vars" : {
+            "var0_degreesPerSecond" : 123.0000000000
+          }
+        }, {
+          "beginTime" : 0.7666666508,
+          "endTime" : 1.1333333254,
+          "type" : 224,
+          "typeName" : "TrackingSpeed",
+          "vars" : {
+            "var0_degreesPerSecond" : 164.0000000000
+          }
+        }, {
+          "beginTime" : 1.6666666269,
+          "endTime" : 3.9000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.2333333492,
+          "endTime" : 3.9000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "86 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.2333333492,
+          "endTime" : 3.9000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.2333333492,
+          "endTime" : 3.9000000954,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_3013.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.2333333343,
+          "endTime" : 0.3333333433,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 0.4333333373,
+          "endTime" : 0.5333333611,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 1.2333333492,
+          "endTime" : 1.3333333731,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411002001
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.3666666746,
+          "type" : 1,
+          "typeName" : "Hitbox",
+          "vars" : {
+            "var0" : "0 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2_behaviorId" : 130
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.5000000000,
+          "type" : 144,
+          "typeName" : "ScreenShake",
+          "vars" : {
+            "var0" : "131178 or 0.000",
+            "var1_duration" : 5.0000000000,
+            "var2_magnitude" : 25.0000000000
+          }
+        }, {
+          "beginTime" : 1.3666666746,
+          "endTime" : 1.6333333254,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14112,
+            "var1_damipoly0" : 2,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 3.3666665554,
+          "endTime" : 3.4666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 0.9666666389,
+          "endTime" : 3.2999999523,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004002 or 0.000",
+            "var2" : "2 or 0.000",
+            "var3" : "1 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 3.2666666508,
+          "type" : 129,
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1" : "411004001 or 0.000",
+            "var2" : "2 or 0.000",
+            "var3" : "2 or 0.000"
+          }
+        }, {
+          "beginTime" : 1.3666666746,
+          "endTime" : 2.5333333015,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "41 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.4000000060,
+          "endTime" : 0.9333333373,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 4.0666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.4000000060,
+          "type" : 224,
+          "typeName" : "TrackingSpeed",
+          "vars" : {
+            "var0_degreesPerSecond" : 123.0000000000
+          }
+        }, {
+          "beginTime" : 0.9333333373,
+          "endTime" : 1.2999999523,
+          "type" : 224,
+          "typeName" : "TrackingSpeed",
+          "vars" : {
+            "var0_degreesPerSecond" : 164.0000000000
+          }
+        }, {
+          "beginTime" : 2.8333332539,
+          "endTime" : 4.0666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "23 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.4000000954,
+          "endTime" : 4.0666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "86 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.4000000954,
+          "endTime" : 4.0666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "78 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 3.4000000954,
+          "endTime" : 4.0666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "79 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15625468 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15645272 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.2000000030,
+          "endTime" : 0.3000000119,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 0.3333333433,
+          "endTime" : 0.4333333373,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 0.4333333373,
+          "endTime" : 0.5333333611,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 1.2999999523,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.2000000477,
+          "endTime" : 1.2999999523,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.4333332777,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004000
+          }
+        }, {
+          "beginTime" : 3.0999999046,
+          "endTime" : 3.2000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 3.3333332539,
+          "endTime" : 3.4333333969,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 3.7666666508,
+          "endTime" : 3.8666665554,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_7000.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 5.0666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15626252 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "15645912 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.0666666701,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.1000000015,
+          "endTime" : 0.2000000030,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004003
+          }
+        }, {
+          "beginTime" : 0.1333333403,
+          "endTime" : 0.3000000119,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.1333333254,
+          "endTime" : 1.2333333492,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004003
+          }
+        }, {
+          "beginTime" : 1.1666666269,
+          "endTime" : 1.5000000000,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.8666666746,
+          "endTime" : 1.8999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 1.9333332777,
+          "endTime" : 2.2666666508,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.9666666985,
+          "endTime" : 2.0666666031,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004003
+          }
+        }, {
+          "beginTime" : 2.8666665554,
+          "endTime" : 3.0000000000,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 2.9000000954,
+          "endTime" : 2.9333333969,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 2.9666666985,
+          "endTime" : 3.0666666031,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004003
+          }
+        }, {
+          "beginTime" : 3.5999999046,
+          "endTime" : 3.8333332539,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 3.6666667461,
+          "endTime" : 3.7666666508,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004003
+          }
+        }, {
+          "beginTime" : 4.1333332062,
+          "endTime" : 4.1666665077,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 4.2666668892,
+          "endTime" : 4.3666667938,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004003
+          }
+        }, {
+          "beginTime" : 4.3333334923,
+          "endTime" : 4.3666667938,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_7001.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.2333333492,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15626856 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4188944 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.0666666701,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.0666666701,
+          "endTime" : 0.1666666716,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004003
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_7002.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 1.8999999762,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15627128 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4189200 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.0666666701,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.1000000015,
+          "endTime" : 0.2000000030,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004003
+          }
+        }, {
+          "beginTime" : 0.9333333373,
+          "endTime" : 0.9666666389,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_9000.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 10.7333335876,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15628372 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4189536 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.1333333403,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 0.2666666806,
+          "endTime" : 0.3666666746,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004003
+          }
+        }, {
+          "beginTime" : 0.4333333373,
+          "endTime" : 0.7666666508,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.1666666269,
+          "endTime" : 1.2000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 1.2999999523,
+          "endTime" : 1.3999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004003
+          }
+        }, {
+          "beginTime" : 1.3333333731,
+          "endTime" : 1.6666666269,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.9666666985,
+          "endTime" : 2.0000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 2.0999999046,
+          "endTime" : 2.2000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004003
+          }
+        }, {
+          "beginTime" : 2.1666667461,
+          "endTime" : 2.5000000000,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 2.7666666508,
+          "endTime" : 3.0999999046,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 2.7999999523,
+          "endTime" : 2.9000000954,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004003
+          }
+        }, {
+          "beginTime" : 2.9666666985,
+          "endTime" : 3.0000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 3.3333332539,
+          "endTime" : 3.4333333969,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004003
+          }
+        }, {
+          "beginTime" : 3.3666665554,
+          "endTime" : 3.7000000477,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 3.8333332539,
+          "endTime" : 3.8666665554,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 4.0000000000,
+          "endTime" : 4.0333333015,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 4.0000000000,
+          "endTime" : 4.0999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004004
+          }
+        }, {
+          "beginTime" : 4.0666666031,
+          "endTime" : 4.0999999046,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 4.1333332062,
+          "endTime" : 4.1666665077,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 4.3333334923,
+          "endTime" : 4.3666667938,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 4.3333334923,
+          "endTime" : 4.4333333969,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004004
+          }
+        }, {
+          "beginTime" : 4.4000000954,
+          "endTime" : 4.4333333969,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 4.6333332062,
+          "endTime" : 4.6666665077,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 4.6666665077,
+          "endTime" : 4.7666668892,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004004
+          }
+        }, {
+          "beginTime" : 4.6999998093,
+          "endTime" : 4.7333331108,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 4.7666668892,
+          "endTime" : 4.8000001907,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 4.7666668892,
+          "endTime" : 4.8000001907,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 4.9666666985,
+          "endTime" : 5.0000000000,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 5.0000000000,
+          "endTime" : 5.0999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004004
+          }
+        }, {
+          "beginTime" : 5.0333333015,
+          "endTime" : 5.0666666031,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 5.0999999046,
+          "endTime" : 5.1333332062,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 5.2666668892,
+          "endTime" : 5.3666667938,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004004
+          }
+        }, {
+          "beginTime" : 5.2666668892,
+          "endTime" : 5.3000001907,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 5.3333334923,
+          "endTime" : 5.3666667938,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 5.4000000954,
+          "endTime" : 5.4333333969,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 5.5333333015,
+          "endTime" : 5.5666666031,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 5.9000000954,
+          "endTime" : 6.0000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004003
+          }
+        }, {
+          "beginTime" : 5.9333333969,
+          "endTime" : 5.9666666985,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 6.0000000000,
+          "endTime" : 6.0333333015,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 6.5666666031,
+          "endTime" : 6.5999999046,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 6.5666666031,
+          "endTime" : 6.6666665077,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411004003
+          }
+        }, {
+          "beginTime" : 6.6333332062,
+          "endTime" : 6.6666665077,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14115,
+            "var1_damipoly0" : 100,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 6.7333331108,
+          "endTime" : 6.7666668892,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 7.9666666985,
+          "endTime" : 8.0000000000,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 8.5333337784,
+          "endTime" : 8.5666666031,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }, {
+      "animFile" : {
+        "name" : "a00_9060.hkxwin",
+        "type" : 0,
+        "unk1" : 0,
+        "unk2" : -1,
+        "unk3" : 0
+      },
+      "events" : [{
+          "beginTime" : 0.0000000000,
+          "endTime" : 6.0666666031,
+          "type" : 0,
+          "typeName" : "ApplySpecialProperty",
+          "vars" : {
+            "var0" : "7 or 0.000",
+            "var1" : "0 or 0.000",
+            "var2" : "-1 or -nan"
+          }
+        }, {
+          "beginTime" : 0.0000000000,
+          "endTime" : 0.3000000119,
+          "type" : 16,
+          "vars" : {
+            "var0" : "128 or 0.000",
+            "var1" : "15630028 or 0.000",
+            "var2" : "0 or 0.000",
+            "var3" : "4192320 or 0.000"
+          }
+        }, {
+          "beginTime" : 0.0333333351,
+          "endTime" : 0.0666666701,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 1.0000000000,
+          "endTime" : 1.1000000238,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 1.0666667223,
+          "endTime" : 1.1666666269,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.8666666746,
+          "endTime" : 1.8999999762,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000001
+          }
+        }, {
+          "beginTime" : 2.5000000000,
+          "endTime" : 2.5999999046,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 2.6333334446,
+          "endTime" : 2.7333333492,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 3.1666667461,
+          "endTime" : 3.2666666508,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 3.3333332539,
+          "endTime" : 3.4333333969,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 3,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 4.5333333015,
+          "endTime" : 4.6333332062,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411000000
+          }
+        }, {
+          "beginTime" : 4.6999998093,
+          "endTime" : 4.8000001907,
+          "type" : 96,
+          "typeName" : "FootParticles",
+          "vars" : {
+            "var0_sfxId" : 14110,
+            "var1_damipoly0" : 4,
+            "var2_damipoly1" : -1
+          }
+        }, {
+          "beginTime" : 1.1000000238,
+          "endTime" : 1.2000000477,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 2.6666667461,
+          "endTime" : 2.7666666508,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 3.3666665554,
+          "endTime" : 3.4666666985,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411001001
+          }
+        }, {
+          "beginTime" : 4.7333331108,
+          "endTime" : 4.8333334923,
+          "type" : 128,
+          "typeName" : "BodySoundEffect",
+          "vars" : {
+            "var0" : "1 or 0.000",
+            "var1_soundId" : 411002001
+          }
+        }],
+      "header" : {
+        "unk1" : "0 or 0.000",
+        "unk2" : "0 or 0.000"
+      }
+    }],
+  "animGroups" : [{
+      "firstAnimId" : 0,
+      "lastAnimId" : 0
+    }, {
+      "firstAnimId" : 6,
+      "lastAnimId" : 6
+    }, {
+      "firstAnimId" : 7,
+      "lastAnimId" : 7
+    }, {
+      "firstAnimId" : 200,
+      "lastAnimId" : 203
+    }, {
+      "firstAnimId" : 500,
+      "lastAnimId" : 500
+    }, {
+      "firstAnimId" : 602,
+      "lastAnimId" : 605
+    }, {
+      "firstAnimId" : 1500,
+      "lastAnimId" : 1500
+    }, {
+      "firstAnimId" : 1510,
+      "lastAnimId" : 1510
+    }, {
+      "firstAnimId" : 1520,
+      "lastAnimId" : 1520
+    }, {
+      "firstAnimId" : 1560,
+      "lastAnimId" : 1560
+    }, {
+      "firstAnimId" : 1570,
+      "lastAnimId" : 1570
+    }, {
+      "firstAnimId" : 1610,
+      "lastAnimId" : 1610
+    }, {
+      "firstAnimId" : 1620,
+      "lastAnimId" : 1620
+    }, {
+      "firstAnimId" : 1750,
+      "lastAnimId" : 1751
+    }, {
+      "firstAnimId" : 1760,
+      "lastAnimId" : 1760
+    }, {
+      "firstAnimId" : 1770,
+      "lastAnimId" : 1770
+    }, {
+      "firstAnimId" : 2200,
+      "lastAnimId" : 2200
+    }, {
+      "firstAnimId" : 2202,
+      "lastAnimId" : 2205
+    }, {
+      "firstAnimId" : 2207,
+      "lastAnimId" : 2207
+    }, {
+      "firstAnimId" : 2209,
+      "lastAnimId" : 2209
+    }, {
+      "firstAnimId" : 2250,
+      "lastAnimId" : 2250
+    }, {
+      "firstAnimId" : 2252,
+      "lastAnimId" : 2253
+    }, {
+      "firstAnimId" : 2255,
+      "lastAnimId" : 2255
+    }, {
+      "firstAnimId" : 2257,
+      "lastAnimId" : 2257
+    }, {
+      "firstAnimId" : 2259,
+      "lastAnimId" : 2259
+    }, {
+      "firstAnimId" : 3000,
+      "lastAnimId" : 3009
+    }, {
+      "firstAnimId" : 3011,
+      "lastAnimId" : 3013
+    }, {
+      "firstAnimId" : 7000,
+      "lastAnimId" : 7002
+    }, {
+      "firstAnimId" : 9000,
+      "lastAnimId" : 9000
+    }, {
+      "firstAnimId" : 9060,
+      "lastAnimId" : 9060
+    }],
+  "animIds" : [0, 6, 7, 200, 201, 202, 203, 500, 602, 603, 604, 605, 1500, 1510, 1520, 1560, 1570, 1610, 1620, 1750, 1751, 1760, 1770, 2200, 2202, 2203, 2204, 2205, 2207, 2209, 2250, 2252, 2253, 2255, 2257, 2259, 3000, 3001, 3002, 3003, 3004, 3005, 3006, 3007, 3008, 3009, 3011, 3012, 3013, 7000, 7001, 7002, 9000, 9060],
+  "header" : {
+    "unk1" : "0 or 0.000",
+    "unk2" : "65547 or 0.000",
+    "unk3" : ["64 or 0.000", "1 or 0.000", "80 or 0.000", "112 or 0.000", "65538 or 0.000", "0 or 0.000", "0 or 0.000", "0 or 0.000", "0 or 0.000", "0 or 0.000", "0 or 0.000", "0 or 0.000", "33619969 or 0.000", "16842754 or 0.000", "1 or 0.000", "0 or 0.000"],
+    "unk4" : "204110 or 0.000",
+    "unk5" : "144 or 0.000",
+    "unk6" : ["0 or 0.000", "1 or 0.000", "128 or 0.000", "0 or 0.000", "0 or 0.000", "204110 or 0.000", "204110 or 0.000", "80 or 0.000", "0 or 0.000", "0 or 0.000"]
+  },
+  "sibName" : "c4110.sib",
+  "skeletonHkxName" : "skeleton.HKXwin"
+}
